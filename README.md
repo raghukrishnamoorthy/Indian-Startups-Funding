@@ -8,7 +8,7 @@ Click
      alt="Indian startups funding Dashboard"
      style="margin-right: 10px;" />
 
-
+<iframe width="800" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOWIwODAyMTUtODhhZC00OTk5LWIxMWUtNGFhMTdjZmU4NDAxIiwidCI6IjE4NmE2ZTlkLTU0MjMtNGE3My1hNTUyLTRhZjY1N2VmNjZhNSIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 ## To Be Done
 
 - [x] Dashboard
