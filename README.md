@@ -12,6 +12,6 @@ Click
 ## To Be Done
 
 - [x] Dashboard
-- [] Exploratory Data Analysis
-- [] Machine Learning
-- [] Conclusions
+- [ ] Exploratory Data Analysis
+- [ ] Machine Learning
+- [ ] Conclusions
